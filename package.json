@@ -25,8 +25,8 @@
     "@nomiclabs/hardhat-etherscan": "^3.1.4",
     "chai": "^4.3.7",
     "ethers": "^5.8.0",
-    "hardhat": "^2.12.5",
-    "hardhat-gas-reporter": "^1.0.9",
+    "hardhat": "^2.22.16",
+    "hardhat-gas-reporter": "^2.0.0",
     "solidity-coverage": "^0.8.12"
   }
 }
